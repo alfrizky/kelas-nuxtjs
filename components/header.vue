@@ -7,6 +7,11 @@
                         Lihat Token
                     </NuxtLink>
                 </li>
+                <li>
+                    <NuxtLink to="/login">
+                        Login
+                    </NuxtLink>
+                </li>
                 <!-- <li>
                     <NuxtLink to="/profile">
                         Profile
